@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb326bc-4e35-46d7-86c8-b01f9bd8389c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CommonResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HenRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day01/ex02/src/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01/ex02/src/Program.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day01/ex02/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01/ex02/src/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day01/ex02/src/UsersArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01/ex02/src/UsersArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommonResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommonResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650562284123</updated>
       <workItem from="1650562285918" duration="6124000" />
-      <workItem from="1650627229004" duration="1864000" />
+      <workItem from="1650627229004" duration="4668000" />
     </task>
     <servers />
   </component>

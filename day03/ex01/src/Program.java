@@ -17,10 +17,10 @@ public class Program {
             }
         }
 
-        CommonResource resource = new CommonResource(0);
+        CommonResource resource = new CommonResource(count);
 
-        Runnable hen_task = new MyRunnable(count, "Hen", resource);
-        Runnable egg_task = new MyRunnable(count, "Egg", resource);
+        Runnable hen_task = new HenRunnable(resource);
+        Runnable egg_task = new EggRunnable(resource);
 
         Thread egg = new Thread(egg_task);
         Thread hen = new Thread(hen_task);
