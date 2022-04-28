@@ -10,7 +10,7 @@ public class Program {
     System.out.println();
 
     Transaction transaction = new Transaction
-        (client1, client2, TransferCategory.DEBITS, -50000000);
+        (client1, client2, -50000000);
     transaction.printInfo();
     System.out.println();
 
